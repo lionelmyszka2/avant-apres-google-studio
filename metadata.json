@@ -1,0 +1,5 @@
+{
+  "name": "Notion Slider Generator",
+  "description": "Create interactive Before/After image comparison sliders to embed in Notion pages. Generates a standalone HTML file.",
+  "requestFramePermissions": []
+}
